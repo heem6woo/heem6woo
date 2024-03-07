@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
+![](https://leetcard.jacoblin.cool/jacoblincool?theme=unicorn)
+![](https://leetcard.jacoblin.cool/jacoblincool?theme=light,unicorn)
