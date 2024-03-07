@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![](https://leetcard.jacoblin.cool/jacoblincool?theme=light,unicorn)
+![](https://leetcard.jacoblin.cool/jacoblincool?border=0&radius=20)
