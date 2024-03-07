@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![](https://leetcard.jacoblin.cool/jacoblincool?border=0&radius=20)
